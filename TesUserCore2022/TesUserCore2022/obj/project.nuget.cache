@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "lYbQ/k+K7oGRk2TiK9dFJmqQah5BcvYxQXnyRH2eFqq60fLM20z5hV1qgs6cHnimdaY7lXBSeOGDuizYBmZazw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\SDD-USER\\source\\repos\\TesUserCore2022\\TesUserCore2022\\TesUserCore2022.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\SDD-USER\\.nuget\\packages\\microsoft.aspnetcore.jsonpatch\\3.1.16\\microsoft.aspnetcore.jsonpatch.3.1.16.nupkg.sha512",
+    "C:\\Users\\SDD-USER\\.nuget\\packages\\microsoft.aspnetcore.mvc.newtonsoftjson\\3.1.16\\microsoft.aspnetcore.mvc.newtonsoftjson.3.1.16.nupkg.sha512",
+    "C:\\Users\\SDD-USER\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\SDD-USER\\.nuget\\packages\\newtonsoft.json\\12.0.2\\newtonsoft.json.12.0.2.nupkg.sha512",
+    "C:\\Users\\SDD-USER\\.nuget\\packages\\newtonsoft.json.bson\\1.0.2\\newtonsoft.json.bson.1.0.2.nupkg.sha512",
+    "C:\\Users\\SDD-USER\\.nuget\\packages\\npgsql\\5.0.7\\npgsql.5.0.7.nupkg.sha512",
+    "C:\\Users\\SDD-USER\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\4.6.0\\system.runtime.compilerservices.unsafe.4.6.0.nupkg.sha512"
+  ],
+  "logs": []
+}
